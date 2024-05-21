@@ -1,4 +1,4 @@
-<h1>Hi, I'm victor, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm victor, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/victor-osornio-salinas-00270b304/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
